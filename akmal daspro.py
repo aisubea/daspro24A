@@ -4,7 +4,7 @@
 # In[4]:
 
 
-name = "BAGAS"
+name = "AKMAL"
 age = 19
 addreas,province = "Jl. Benteng","75645666"
 scorePython = 80.5
@@ -149,7 +149,7 @@ dictRokok = dict(tuple_list)
 print(dictRokok)
 
 keys = ("name","age","addreass")
-values = ("bagas","23","Jepang")
+values = ("akmal","23","Jepang")
 
 dictData = dict(zip(keys,values))
 print(dictData)
